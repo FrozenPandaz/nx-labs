@@ -20,7 +20,6 @@
   "executors": "./executors.json",
   "dependencies": {
     "@nx/js": "^16.8.0",
-    "@nx/linter": "^16.8.0",
     "@nx/devkit": "^16.8.0",
     "@phenomnomnominal/tsquery": "~5.0.1",
     "ajv": "^8.12.0",
@@ -28,7 +27,8 @@
     "less-loader": "11.1.0",
     "license-webpack-plugin": "^4.0.2",
     "sass-loader": "^12.2.0",
-    "stylus-loader": "^7.1.0"
+    "stylus-loader": "^7.1.0",
+    "@nx/eslint": "^16.8.0"
   },
   "nx-migrations": {
     "migrations": "./migrations.json"

@@ -7,7 +7,7 @@
     "@nx/devkit": "^16.8.0",
     "@nx/esbuild": "^16.8.0",
     "@nx/node": "^16.8.0",
-    "@nx/linter": "^16.8.0"
+    "@nx/eslint": "^16.8.0"
   },
   "nx-migrations": {
     "migrations": "./migrations.json"
